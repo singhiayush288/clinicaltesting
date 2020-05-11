@@ -5,6 +5,8 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.xml.bind.annotation.XmlRootElement;
 
+
+//test comment 
 @Entity(name="testinfo")
 public class TestEntity {
 	@Id
