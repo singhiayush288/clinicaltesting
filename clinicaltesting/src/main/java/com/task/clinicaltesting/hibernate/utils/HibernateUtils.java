@@ -25,5 +25,6 @@ public class HibernateUtils {
 	public static SessionFactory getSessionFactory() {
 		return sessionFactory;
 	}
+	//check jenkins with git update
 
 }
